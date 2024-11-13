@@ -18,3 +18,4 @@ This project implements a state feedback controller and a Luenberger observer fo
 
 - MATLAB (R2021b or later recommended)
 
+### Note this drone has NO constraints, its just a demonstration of state feedback controller, a more realistic version would have angular and velocity constraints too.
