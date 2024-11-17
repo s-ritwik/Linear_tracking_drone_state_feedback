@@ -1,4 +1,4 @@
-![Alt Text](x_y_tracking.gif)
+<img src="x_y_tracking.gif" alt="Alt Text" width="500">
 
 
 
